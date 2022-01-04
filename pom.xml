@@ -5,7 +5,7 @@
   <groupId>com.sbi.banking</groupId>
   <artifactId>BankingCommon</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
 
   <name>BankingCommon</name>
   <url>http://maven.apache.org</url>
