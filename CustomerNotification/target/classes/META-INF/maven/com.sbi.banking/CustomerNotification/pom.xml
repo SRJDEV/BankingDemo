@@ -6,6 +6,7 @@
     <groupId>com.sbi.banking</groupId>
     <artifactId>BankingCommon</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+   
   </parent>
   <groupId>com.sbi.banking</groupId>
   <artifactId>CustomerNotification</artifactId>
